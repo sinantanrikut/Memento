@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558998555478",
+    "project_id": "my-memory-bc16b",
+    "storage_bucket": "my-memory-bc16b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558998555478:android:56994a40d964ffc004a4f7",
+        "android_client_info": {
+          "package_name": "com.kclarke.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558998555478-4eaqdofqj6kod3rlsnevh3rdh6vl1pa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx2gpSa169tPH-XLmWzACffIil5EcBpwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558998555478-4eaqdofqj6kod3rlsnevh3rdh6vl1pa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
