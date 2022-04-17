@@ -1,14 +1,14 @@
-# Match-Pairs-Memory-Game
-This is a memory game where you have to match pairs of tiles. You turn over one tile, and then try to find a matching tile.
+# Memento
+Bu oyun bir hafıza oyunudur. Oyun içerisinde sizin karşınıza çıkacak kartları doğru bir şekilde birbirleriyle eşleştirmeniz gerekmektedşr.
 
 ## Table of contents
-* [General info](#general-info)
+* [Genel Bilgiler](#genel-bilgiler)
 * [TODO](#todo)
-* [Instalation](#instalation)
+* [Kurulum](#kurulum)
 * [Screenshots](#screenshots)
-* [Status](#status)
 
-## General info
+
+## Genel Bilgiler
 
 The memory game is a pair matching game where the player clicks on 2 cards, if they are the same they remain flipped or else they return back to their original state. The game ends when all cards are flipped open.
 
@@ -26,11 +26,10 @@ List of TODOs for future development
 * Change the way points are calculated
 * Minor bug fixes
 
-## Instalation
-Download the zip folder from Github and open in Android Studio
+## Kurulum
+Zip dosyasını indirip en güncel android stuido içerisine atıp kolaylıkla çalıştırabilirsiniz
 
 ## Screenshots
 <img src = "https://github.com/sinantanrikut/Memento/blob/main/mymemory.gif?raw=true" width = 300>
 
-## Status
-Project is: _in progress_
+
