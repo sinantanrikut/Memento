@@ -1,1 +1,2 @@
 # Memento
+Buraya bilgiler gelecek
