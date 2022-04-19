@@ -10,7 +10,7 @@ Bu oyun bir hafıza oyunudur. Oyun içerisinde sizin karşınıza çıkacak kart
 
 ## Genel Bilgiler
 
-The memory game is a pair matching game where the player clicks on 2 cards, if they are the same they remain flipped or else they return back to their original state. The game ends when all cards are flipped open.
+MEMENTO adındaki bu hafıza oyunumuz şu şekilde oynanır. Oyuncu sırasıyla 2 karta tıklar, eğer kartlardaki resimler aynıysa bu kartlar eşleşir ve kapanmaz. Eğer kartlar aynı değilse bu seçilen iki kart kapanır. Tüm kartlar açıldığında oyun sona erer.
 
 The application is written in Kotlin using the **MVVM** architecture
 
@@ -21,10 +21,10 @@ Your best results are saved in the database
 You get a nice application with transition **animation**
 
 ## Todo
-List of TODOs for future development
-* Add more pictures
-* Change the way points are calculated
-* Minor bug fixes
+Oyunun ilerdeki versiyonları için yapılabilecek güncellemeler
+* Daha fazla görsel ekleme
+* Puan hesaplama algıritmasını değiştirme
+* Uygulama içerisindeki çeşitli bugları düzeltmek
 
 ## Kurulum
 Zip dosyasını indirip en güncel android stuido içerisine atıp kolaylıkla çalıştırabilirsiniz
@@ -32,4 +32,8 @@ Zip dosyasını indirip en güncel android stuido içerisine atıp kolaylıkla �
 ## Screenshots
 <img src = "https://github.com/sinantanrikut/Memento/blob/main/mymemory.gif?raw=true" width = 300>
 
-
+KIRKLARELİ ÜNİVERSİTESİ MOBİL PROGRAMLAMA ÖDEVİ
+------------------------------------------------
+AHMET TURAN KARAKUŞ 1190505037
+SİNAN TANRIKUT 1190505066
+HAYDAR ALÇİN 1190505032
