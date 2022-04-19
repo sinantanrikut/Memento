@@ -12,13 +12,11 @@ Bu oyun bir hafıza oyunudur. Oyun içerisinde sizin karşınıza çıkacak kart
 
 MEMENTO adındaki bu hafıza oyunumuz şu şekilde oynanır. Oyuncu sırasıyla 2 karta tıklar, eğer kartlardaki resimler aynıysa bu kartlar eşleşir ve kapanmaz. Eğer kartlar aynı değilse bu seçilen iki kart kapanır. Tüm kartlar açıldığında oyun sona erer.
 
-The application is written in Kotlin using the **MVVM** architecture
+Mobil uygulamamız, MVVM mimarisi kullanılarak Kotlin ile yazılmıştır. 
+3 farklı zorluk seviyesinde bu oyunu oynayabilirsiniz. 
+En iyi sonuçlarınız veritabanına kaydedilir. 
 
-You can play in 2 difficulty levels
-
-Your best results are saved in the database
-
-You get a nice application with transition **animation**
+Şimdiden iyi eğlenceler!
 
 ## Todo
 Oyunun ilerdeki versiyonları için yapılabilecek güncellemeler
