@@ -32,6 +32,6 @@ Zip dosyasını indirip en güncel android stuido içerisine atıp kolaylıkla �
 
 KIRKLARELİ ÜNİVERSİTESİ MOBİL PROGRAMLAMA ÖDEVİ
 ------------------------------------------------
-AHMET TURAN KARAKUŞ 1190505037
-SİNAN TANRIKUT 1190505066
-HAYDAR ALÇİN 1190505032
+AHMET TURAN KARAKUŞ 1190505037 -
+SİNAN TANRIKUT 1190505066 -
+HAYDAR ALÇİN 1190505032 -
