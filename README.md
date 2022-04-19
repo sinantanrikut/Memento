@@ -1,5 +1,5 @@
 # Memento
-Bu oyun bir hafıza oyunudur. Oyun içerisinde sizin karşınıza çıkacak kartları doğru bir şekilde birbirleriyle eşleştirmeniz gerekmektedşr.
+Bu oyun bir hafıza oyunudur. Oyun içerisinde sizin karşınıza çıkacak kartları doğru bir şekilde birbirleriyle eşleştirmeniz gerekmektedir.
 
 ## İçerik
 * [Genel Bilgiler](#genel-bilgiler)
